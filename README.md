@@ -11,7 +11,7 @@ This requires the following to use the component:
 
 ## Installation
 
-Install via (npm)[https://www.npmjs.com/package/spritulus]:
+Install via [npm](https://www.npmjs.com/package/spritulus):
 
 ```bash
 npm install spritulus

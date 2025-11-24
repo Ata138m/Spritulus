@@ -1,6 +1,6 @@
 {
       "name": "spritulus",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "type": "module",
       "source": "src/index.jsx",
       "main": "dist/index.js",
@@ -9,7 +9,8 @@
       "scripts": {
             "build": "microbundle",
             "dev": "microbundle watch",
-            "demo": "vite --config vite.config.js"
+            "demo": "vite --config vite.config.js",
+            "test": "echo \"Warning: no test specified\" && exit 0"
       },
       "devDependencies": {
             "microbundle": "^0.15.1",

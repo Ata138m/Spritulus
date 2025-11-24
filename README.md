@@ -41,8 +41,8 @@ function App() {
     <div>
       <h1>My Game Character</h1>
       <Spritulus 
-        id="sprite-captain-misfortune-44" 
-        animationName="Idle" 
+        id="cpt-misfortune-44" 
+        animationName="idle" 
       />
     </div>
   );
@@ -70,15 +70,15 @@ function GameCharacter() {
   return (
     <div>
       <Spritulus 
-        id="sprite-captain-misfortune-44" 
+        id="cpt-misfortune-44" 
         animationName={animation}
         flipped={flipped}
       />
       
       <div>
-        <button onClick={() => setAnimation('Idle')}>Idle</button>
-        <button onClick={() => setAnimation('Walk')}>Walk</button>
-        <button onClick={() => setAnimation('Run')}>Run</button>
+        <button onClick={() => setAnimation('idle')}>Idle</button>
+        <button onClick={() => setAnimation('run')}>Run</button>
+        <button onClick={() => setAnimation('bow')}>Bow</button>
         <button onClick={() => setFlipped(!flipped)}>Flip</button>
       </div>
     </div>

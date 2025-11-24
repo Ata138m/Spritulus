@@ -11,22 +11,10 @@ This requires the following to use the component:
 
 ## Installation
 
-Install via npm:
+Install via (npm)[https://www.npmjs.com/package/spritulus]:
 
 ```bash
 npm install spritulus
-```
-
-Or using yarn:
-
-```bash
-yarn add spritulus
-```
-
-Or using pnpm:
-
-```bash
-pnpm add spritulus
 ```
 
 ## Usage

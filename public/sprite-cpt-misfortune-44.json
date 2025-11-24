@@ -1,0 +1,52 @@
+{
+  "size": {
+    "width": 200,
+    "height": 200
+  },
+  "animations": [
+    {
+      "name": "Idle",
+      "frames": 8
+    },
+    {
+      "name": "Run",
+      "frames": 8
+    },
+    {
+      "name": "Jump",
+      "frames": 2
+    },
+    {
+      "name": "Fall",
+      "frames": 2
+    },
+    {
+      "name": "Death",
+      "frames": 7
+    },
+    {
+      "name": "Kick",
+      "frames": 2
+    },
+    {
+      "name": "Bow",
+      "frames": 8
+    },
+    {
+      "name": "TakeHit",
+      "frames": 3
+    },
+    {
+      "name": "Punch",
+      "frames": 5
+    },
+    {
+      "name": "Block",
+      "frames": 5
+    },
+    {
+      "name": "Awaken",
+      "frames": 6
+    }
+  ]
+}

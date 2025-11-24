@@ -1,6 +1,6 @@
 {
       "name": "spritulus",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "type": "module",
       "source": "src/index.jsx",
       "main": "dist/index.js",
@@ -8,10 +8,20 @@
       "unpkg": "dist/index.umd.js",
       "scripts": {
             "build": "microbundle",
-            "dev": "microbundle watch"
+            "dev": "microbundle watch",
+            "demo": "vite --config vite.config.js"
       },
       "devDependencies": {
-            "microbundle": "^0.15.1"
+            "microbundle": "^0.15.1",
+            "@eslint/js": "^9.39.1",
+            "@types/react": "^19.2.2",
+            "@types/react-dom": "^19.2.2",
+            "@vitejs/plugin-react": "^5.1.0",
+            "eslint": "^9.39.1",
+            "eslint-plugin-react-hooks": "^7.0.1",
+            "eslint-plugin-react-refresh": "^0.4.24",
+            "globals": "^16.5.0",
+            "vite": "^7.2.2"
       },
       "peerDependencies": {
             "react": ">=19",

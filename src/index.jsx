@@ -37,7 +37,7 @@ export default function Spritulus({ id, animationName, flipped = false }) {
             }
 
             frameIndex = (frameIndex + 1) % animation.frames;
-            setOffsetX(width * frameIndex);
+            setOffsetX(width * frameIndex * -1);
             animationTimeout.current = setTimeout(animate, 128);
         }
 

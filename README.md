@@ -54,7 +54,7 @@ function App() {
 | Prop | Type | Required | Default | Description |
 |------|------|----------|---------|-------------|
 | `id` | `string` | Yes | - | The sprite identifier (e.g., "sprite-captain-misfortune-44") |
-| `animationName` | `string` | Yes | - | The animation to play (e.g., "Idle", "Walk", "Run") |
+| `animationName` | `string` | Yes | - | The animation to play (e.g., "idle", "run", "bow") from the sprite's JSON file |
 | `flipped` | `boolean` | No | `false` | Whether to flip the sprite horizontally |
 
 ### Example with Animation Control
@@ -85,3 +85,15 @@ function GameCharacter() {
   );
 }
 ```
+
+## Demo
+
+Want to see Spritulus in action? This repository includes an interactive demo showcasing the component with [Captain Misfortune](https://www.spritulus.com/sprites/44).
+
+To run the demo locally:
+
+```bash
+npm run demo
+```
+
+This will launch a development server where you can test different animations and see the component working in real-time. The demo includes controls to switch between animations (Idle, Walk, Run) and flip the sprite horizontally.

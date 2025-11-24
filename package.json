@@ -12,7 +12,10 @@
       },
       "devDependencies": {
             "microbundle": "^0.15.1",
-            "react": "^19.2.0"
+            "react": "^19"
+      },
+      "peerDependencies": {
+            "react": ">=19"
       },
       "repository": {
             "type": "git",

@@ -1,4 +1,4 @@
-# React Component for Spritulus Sprites
+# <img width="32" height="32" alt="spritulus-logo-256" src="https://github.com/user-attachments/assets/96ddb63e-d715-463c-ab9d-427f124c7a5d" /> React Component for Spritulus Sprites
 
 This package exports a component named `<Spritulus/>` that adds animated sprites from [Spritulus](https://www.spritulus.com/sprites) to your web apps.
 

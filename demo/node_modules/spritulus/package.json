@@ -1,0 +1,21 @@
+{
+      "name": "spritulus",
+      "version": "1.0.0",
+      "type": "module",
+      "source": "src/index.jsx",
+      "main": "dist/index.js",
+      "module": "dist/index.module.js",
+      "unpkg": "dist/index.umd.js",
+      "scripts": {
+            "build": "microbundle",
+            "dev": "microbundle watch"
+      },
+      "devDependencies": {
+            "microbundle": "^0.15.1",
+            "react": "^19.2.0"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/spritulus/spritulus.git"
+      }
+}

@@ -11,11 +11,11 @@
             "dev": "microbundle watch"
       },
       "devDependencies": {
-            "microbundle": "^0.15.1",
-            "react": "^19"
+            "microbundle": "^0.15.1"
       },
       "peerDependencies": {
-            "react": ">=19"
+            "react": ">=19",
+            "react-dom": "^19.2.0"
       },
       "repository": {
             "type": "git",

